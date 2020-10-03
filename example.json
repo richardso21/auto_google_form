@@ -1,0 +1,10 @@
+{
+  "FORM_ID": "<the long list of numbers/letters by the end of the forms link (after `forms/d/e/`, but before `/viewform`>",
+  "email": "<your google account email>",
+  "password": "<corresponding account password>",
+  "entries": {
+    "<entry_id (obtainable by using inspect element)>": "<input for the entry>",
+    "<entry_id (repeat if necessary)>": "put your typed response here, or name of answer choice"
+  }
+}
+// ONCE ALL this is filled out, rename this file to `creds.json` and delete this comment
